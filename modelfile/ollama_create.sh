@@ -1,0 +1,1 @@
+ollama create EEVE-Korean-10.8B -f /workspace/pmlm/modelfile/Modelfile
