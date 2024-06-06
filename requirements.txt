@@ -1,0 +1,2 @@
+huggingface-hub==0.23.3
+langchain==0.2.2
