@@ -3,8 +3,11 @@
 
 ## 개발환경
 OS  : Ubuntu 20.04
+
 CPU : AMD Ryzen 5 PRO 4650G
+
 RAM : 64GB
+
 GPU : RTX 3060 12GB x 2
 
 ## library
