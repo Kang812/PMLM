@@ -19,3 +19,6 @@ curl -fsSL https://ollama.com/install.sh | sh # 우분투
 ```
 ./model_download/EEVE-Korean_10B_GGUF.sh
 ```
+
+## LangServer 싱행 
+- [app](app)
