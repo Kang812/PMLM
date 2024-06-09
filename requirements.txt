@@ -7,3 +7,6 @@ uvicorn==0.30.1
 asitop
 langchain-openai
 streamlit
+unstructured
+sentence-transformers
+faiss-gpu

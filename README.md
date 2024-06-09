@@ -12,6 +12,7 @@ GPU : RTX 3060 12GB x 2
 ## library
 ```
 pip install -r requirements.txt
+pip install "unstructured[pdf]"
 curl -fsSL https://ollama.com/install.sh | sh # 우분투
 ```
 
